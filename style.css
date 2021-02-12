@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://i.stack.imgur.com/jGlzr.png);
+    text-align: center;
+
+  
+}
+#main {
+     margin: 50px 50px 50px 50px;
+     background:  orange;
+     border-style: solid;
+     
+
+}
+@media (max-width: 300px) {
+    #main { margin:auto;}
+}
+}
+
+#image {
+   
+    padding: 25px 50px 25px 50px;
+    border-style: solid; 
+}
+#img-div {
+    background: white ;
+    
+  
+    border-style: double;
+    
+}
+h3 {
+   margin-right: 5
+   0px
+}
+ ul {
+    max-width: 500px;
+    margin:  auto;
+    text-align: left;
+    line-height: 0.5;
+    
+ }
+
+ li {
+     line-height: 20px;
+ }
+ 
